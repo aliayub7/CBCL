@@ -1,5 +1,5 @@
 ﻿# Cognitively-Inspired Model for Incremental Learning Using a Few Examples
-Keras code for the paper Cognitively-Inspired Model for Incremental Learning Using a Few Examples https://arxiv.org/abs/2002.12411
+Keras code for the paper: [Cognitively-Inspired Model for Incremental Learning Using a Few Examples](https://arxiv.org/abs/2002.12411) 
 ## Applied on CIFAR-100, Caltech-101 and CUBS-200-2011 
 
 ### Requirements
