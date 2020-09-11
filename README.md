@@ -9,7 +9,7 @@ Incremental learning attempts to develop a classifier which learns continuously 
 * Keras (Version 2.1.6)
 * Scipy (Currently working with 1.2.1)
 * Scikit Learn (Currently working with 0.21.2)
-* if you can't find a pre-trained model in Kears, get them from from https://github.com/qubvel/classification_models
+* if you can't find a pre-trained model in Kears, get them from https://github.com/qubvel/classification_models
 * Download the datasets in */data directory
 ## Usage
 * First run ```get_features.py``` to get the ResNet features for all the images in the dataset. For Caltheh-101 and CUBS-200-2011 use ResNet-18 instead of ResNet-34.
